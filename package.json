@@ -1,0 +1,17 @@
+{
+  "name": "test_iterator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha ./test/Iterator.test.js"
+  },
+  "author": "Oleksandr Pylypchuk",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0"
+  }
+}
